@@ -1,0 +1,4 @@
+C:\Dropbox\dcode\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\bin\Release\ReadWebConfigKey.exe
+C:\Dropbox\dcode\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\bin\Release\ReadWebConfigKey.pdb
+C:\Dropbox\dcode\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\obj\Release\ReadWebConfigKey.exe
+C:\Dropbox\dcode\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\obj\Release\ReadWebConfigKey.pdb

@@ -1,0 +1,10 @@
+D:\Code\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\bin\Debug\ReadWebConfigKey.exe
+D:\Code\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\bin\Debug\ReadWebConfigKey.pdb
+D:\Code\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\obj\Debug\ReadWebConfigKey.csprojResolveAssemblyReference.cache
+D:\Code\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\obj\Debug\ReadWebConfigKey.exe
+D:\Code\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\obj\Debug\ReadWebConfigKey.pdb
+C:\Dropbox\dcode\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\obj\Debug\ReadWebConfigKey.exe
+C:\Dropbox\dcode\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\obj\Debug\ReadWebConfigKey.pdb
+C:\Dropbox\dcode\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\bin\Debug\ReadWebConfigKey.exe
+C:\Dropbox\dcode\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\bin\Debug\ReadWebConfigKey.pdb
+C:\Dropbox\dcode\ReadWebConfigKey\ReadWebConfigKey\ReadWebConfigKey\obj\Debug\ReadWebConfigKey.csprojResolveAssemblyReference.cache
